@@ -4,7 +4,7 @@ package rendering.interfaces;
 * This class should be implemented on anything that stores energy.  Be it an
 * battery, capacitor , energy cell, etc.
 *
-* @author Lemmy Von Disturbed
+* @author Lemmy Regis Hellfire Von Disturbed
 */
 public interface IEnergyContainer{
 

@@ -4,7 +4,7 @@ package rendering.interfaces;
 * This class should be implemented on anything that provides a connection from a energy source to a enerrgy battery
 * and/or to an object that uses energy. Be an single cable, bundle of cables, etc.
 *
-* @author Lemmy Von Disturbed
+* @author Lemmy Regis Hellfire Von Disturbed
 */
 public interface IEnergyConduit{
 
