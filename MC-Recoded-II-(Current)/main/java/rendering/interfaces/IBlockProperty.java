@@ -4,7 +4,7 @@ package rendering.interfaces;
 * This class should be implemented on anything that is a block.  Be it an
 * decorative blocks, crafting blocks, entity spawning blocks, storage blocks, etc.
 *
-* @author Don Lemmy Von Disturbed
+* @author Lemmy Von Disturbed
 */
 public interface IBlockProperty{
 

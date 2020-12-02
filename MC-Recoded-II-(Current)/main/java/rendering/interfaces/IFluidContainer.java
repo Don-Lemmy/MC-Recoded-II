@@ -4,7 +4,7 @@ package rendering.interfaces;
 * This class should be implemented on anything that stores fluid.  Be it an
 * barrel, silo, tank, etc.
 *
-* @author Don Lemmy Von Disturbed
+* @author Lemmy Von Disturbed
 */
 public interface IFluidContainer{
 

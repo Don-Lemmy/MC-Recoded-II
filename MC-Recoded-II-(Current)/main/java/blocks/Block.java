@@ -1,4 +1,4 @@
-package blocks;
+ package blocks;
 
 import rendering.interfaces.ITextureable;
 
@@ -12,7 +12,7 @@ import rendering.interfaces.ITextureable;
  * Note that this block class is designed to be generic and work with
  * all blocks,
  *
- * @author Don Lemmy Von Disturbed
+ * @author Lemmy Von Disturbed
  */
 public class Block implements ITextureable{
 	/**Name of this block. Used for registration and texture location.**/
