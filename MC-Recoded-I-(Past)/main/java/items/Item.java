@@ -12,7 +12,7 @@ import rendering.interfaces.ITextureable;
  * Note that this item class is designed to be generic and work with
  * all items,
  *
- * @author Don Lemmy Von  Von  Disturbed
+ * @author Lemmy Regis Hellfire Von Disturbed
  */
 public class Item implements ITextureable{
 	/**Name of this item.  Used for registration and texture location.**/
